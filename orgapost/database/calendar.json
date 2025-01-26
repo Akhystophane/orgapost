@@ -1,0 +1,388 @@
+{
+    "astrologenial": {
+        "posts": [
+            {
+                "platform": "tiktok",
+                "date": "23:01:2025",
+                "time": "12:00",
+                "folder_path": "/Users/emmanuellandau/Documents/data_insta/astro/9/1",
+                "scheduled": true
+            },
+            {
+                "platform": "instagram",
+                "date": "23:01:2025",
+                "time": "12:00",
+                "folder_path": "/Users/emmanuellandau/Documents/data_insta/astro/9/1",
+                "scheduled": true
+            },
+            {
+                "platform": "tiktok",
+                "date": "23:01:2025",
+                "time": "13:00",
+                "folder_path": "/Users/emmanuellandau/Documents/data_insta/astro/9/2",
+                "scheduled": true
+            },
+            {
+                "platform": "instagram",
+                "date": "23:01:2025",
+                "time": "13:00",
+                "folder_path": "/Users/emmanuellandau/Documents/data_insta/astro/9/2",
+                "scheduled": true
+            },
+            {
+                "platform": "tiktok",
+                "date": "23:01:2025",
+                "time": "14:00",
+                "folder_path": "/Users/emmanuellandau/Documents/data_insta/astro/9/3",
+                "scheduled": true
+            },
+            {
+                "platform": "instagram",
+                "date": "23:01:2025",
+                "time": "14:00",
+                "folder_path": "/Users/emmanuellandau/Documents/data_insta/astro/9/3",
+                "scheduled": true
+            },
+            {
+                "platform": "tiktok",
+                "date": "24:01:2025",
+                "time": "12:00",
+                "folder_path": "/Users/emmanuellandau/Documents/data_insta/astro/9/4",
+                "scheduled": true
+            },
+            {
+                "platform": "instagram",
+                "date": "24:01:2025",
+                "time": "12:00",
+                "folder_path": "/Users/emmanuellandau/Documents/data_insta/astro/9/4",
+                "scheduled": true
+            },
+            {
+                "platform": "tiktok",
+                "date": "24:01:2025",
+                "time": "13:00",
+                "folder_path": "/Users/emmanuellandau/Documents/data_insta/astro/9/5",
+                "scheduled": true
+            },
+            {
+                "platform": "instagram",
+                "date": "24:01:2025",
+                "time": "13:00",
+                "folder_path": "/Users/emmanuellandau/Documents/data_insta/astro/9/5",
+                "scheduled": true
+            },
+            {
+                "platform": "tiktok",
+                "date": "24:01:2025",
+                "time": "14:00",
+                "folder_path": "/Users/emmanuellandau/Documents/data_insta/astro/9/6",
+                "scheduled": true
+            },
+            {
+                "platform": "instagram",
+                "date": "24:01:2025",
+                "time": "14:00",
+                "folder_path": "/Users/emmanuellandau/Documents/data_insta/astro/9/6",
+                "scheduled": true
+            },
+            {
+                "platform": "tiktok",
+                "date": "25:01:2025",
+                "time": "12:00",
+                "folder_path": "/Users/emmanuellandau/Documents/data_insta/astro/9/7",
+                "scheduled": true
+            },
+            {
+                "platform": "instagram",
+                "date": "25:01:2025",
+                "time": "12:00",
+                "folder_path": "/Users/emmanuellandau/Documents/data_insta/astro/9/7",
+                "scheduled": true
+            },
+            {
+                "platform": "tiktok",
+                "date": "25:01:2025",
+                "time": "13:00",
+                "folder_path": "/Users/emmanuellandau/Documents/data_insta/astro/9/8",
+                "scheduled": true
+            },
+            {
+                "platform": "instagram",
+                "date": "25:01:2025",
+                "time": "13:00",
+                "folder_path": "/Users/emmanuellandau/Documents/data_insta/astro/9/8",
+                "scheduled": true
+            },
+            {
+                "platform": "tiktok",
+                "date": "25:01:2025",
+                "time": "14:00",
+                "folder_path": "/Users/emmanuellandau/Documents/data_insta/astro/9/9",
+                "scheduled": true
+            },
+            {
+                "platform": "instagram",
+                "date": "25:01:2025",
+                "time": "14:00",
+                "folder_path": "/Users/emmanuellandau/Documents/data_insta/astro/9/9",
+                "scheduled": true
+            },
+            {
+                "platform": "tiktok",
+                "date": "26:01:2025",
+                "time": "12:00",
+                "folder_path": "/Users/emmanuellandau/Documents/data_insta/astro/9/10",
+                "scheduled": true
+            },
+            {
+                "platform": "instagram",
+                "date": "26:01:2025",
+                "time": "12:00",
+                "folder_path": "/Users/emmanuellandau/Documents/data_insta/astro/9/10",
+                "scheduled": true
+            },
+            {
+                "platform": "tiktok",
+                "date": "26:01:2025",
+                "time": "13:00",
+                "folder_path": "/Users/emmanuellandau/Documents/data_insta/astro/9/11",
+                "scheduled": true
+            },
+            {
+                "platform": "instagram",
+                "date": "26:01:2025",
+                "time": "13:00",
+                "folder_path": "/Users/emmanuellandau/Documents/data_insta/astro/9/11",
+                "scheduled": true
+            },
+            {
+                "platform": "tiktok",
+                "date": "26:01:2025",
+                "time": "14:00",
+                "folder_path": "/Users/emmanuellandau/Documents/data_insta/astro/9/12",
+                "scheduled": true
+            },
+            {
+                "platform": "instagram",
+                "date": "26:01:2025",
+                "time": "14:00",
+                "folder_path": "/Users/emmanuellandau/Documents/data_insta/astro/9/12",
+                "scheduled": true
+            },
+            {
+                "platform": "tiktok",
+                "date": "27:01:2025",
+                "time": "12:00",
+                "folder_path": "/Users/emmanuellandau/Documents/data_insta/astro/9/13",
+                "scheduled": true
+            },
+            {
+                "platform": "instagram",
+                "date": "27:01:2025",
+                "time": "12:00",
+                "folder_path": "/Users/emmanuellandau/Documents/data_insta/astro/9/13",
+                "scheduled": true
+            },
+            {
+                "platform": "youtube",
+                "date": "23:01:2025",
+                "time": "12:00",
+                "folder_path": "/Users/emmanuellandau/Documents/data_insta/astro/9/1",
+                "scheduled": true
+            },
+            {
+                "platform": "youtube",
+                "date": "23:01:2025",
+                "time": "13:00",
+                "folder_path": "/Users/emmanuellandau/Documents/data_insta/astro/9/2",
+                "scheduled": true
+            },
+            {
+                "platform": "youtube",
+                "date": "23:01:2025",
+                "time": "14:00",
+                "folder_path": "/Users/emmanuellandau/Documents/data_insta/astro/9/3",
+                "scheduled": true
+            },
+            {
+                "platform": "youtube",
+                "date": "24:01:2025",
+                "time": "12:00",
+                "folder_path": "/Users/emmanuellandau/Documents/data_insta/astro/9/4",
+                "scheduled": true
+            },
+            {
+                "platform": "youtube",
+                "date": "24:01:2025",
+                "time": "13:00",
+                "folder_path": "/Users/emmanuellandau/Documents/data_insta/astro/9/5",
+                "scheduled": true
+            },
+            {
+                "platform": "youtube",
+                "date": "24:01:2025",
+                "time": "14:00",
+                "folder_path": "/Users/emmanuellandau/Documents/data_insta/astro/9/6",
+                "scheduled": true
+            },
+            {
+                "platform": "youtube",
+                "date": "25:01:2025",
+                "time": "12:00",
+                "folder_path": "/Users/emmanuellandau/Documents/data_insta/astro/9/7",
+                "scheduled": true
+            },
+            {
+                "platform": "youtube",
+                "date": "25:01:2025",
+                "time": "13:00",
+                "folder_path": "/Users/emmanuellandau/Documents/data_insta/astro/9/8",
+                "scheduled": true
+            },
+            {
+                "platform": "youtube",
+                "date": "25:01:2025",
+                "time": "14:00",
+                "folder_path": "/Users/emmanuellandau/Documents/data_insta/astro/9/9",
+                "scheduled": true
+            },
+            {
+                "platform": "youtube",
+                "date": "26:01:2025",
+                "time": "12:00",
+                "folder_path": "/Users/emmanuellandau/Documents/data_insta/astro/9/10",
+                "scheduled": true
+            },
+            {
+                "platform": "youtube",
+                "date": "26:01:2025",
+                "time": "13:00",
+                "folder_path": "/Users/emmanuellandau/Documents/data_insta/astro/9/11",
+                "scheduled": true
+            },
+            {
+                "platform": "youtube",
+                "date": "26:01:2025",
+                "time": "14:00",
+                "folder_path": "/Users/emmanuellandau/Documents/data_insta/astro/9/12",
+                "scheduled": true
+            },
+            {
+                "platform": "youtube",
+                "date": "27:01:2025",
+                "time": "12:00",
+                "folder_path": "/Users/emmanuellandau/Documents/data_insta/astro/9/13",
+                "scheduled": true
+            },
+            {
+                "platform": "youtube",
+                "date": "27:01:2025",
+                "time": "13:00",
+                "folder_path": "/Users/emmanuellandau/Documents/data_insta/astro/9/14",
+                "scheduled": true
+            }
+        ]
+    },
+    "en_astrologenial": {
+        "posts": [
+            {
+                "platform": "tiktok",
+                "date": "22:01:2025",
+                "time": "17:00",
+                "folder_path": "/Users/emmanuellandau/Documents/data_insta/astro/9_en/1",
+                "scheduled": true
+            },
+            {
+                "platform": "tiktok",
+                "date": "22:01:2025",
+                "time": "18:00",
+                "folder_path": "/Users/emmanuellandau/Documents/data_insta/astro/9_en/2",
+                "scheduled": true
+            },
+            {
+                "platform": "tiktok",
+                "date": "22:01:2025",
+                "time": "19:00",
+                "folder_path": "/Users/emmanuellandau/Documents/data_insta/astro/9_en/3",
+                "scheduled": true
+            },
+            {
+                "platform": "tiktok",
+                "date": "23:01:2025",
+                "time": "17:00",
+                "folder_path": "/Users/emmanuellandau/Documents/data_insta/astro/9_en/4",
+                "scheduled": true
+            },
+            {
+                "platform": "tiktok",
+                "date": "23:01:2025",
+                "time": "18:00",
+                "folder_path": "/Users/emmanuellandau/Documents/data_insta/astro/9_en/5",
+                "scheduled": true
+            },
+            {
+                "platform": "tiktok",
+                "date": "23:01:2025",
+                "time": "19:00",
+                "folder_path": "/Users/emmanuellandau/Documents/data_insta/astro/9_en/6",
+                "scheduled": true
+            },
+            {
+                "platform": "tiktok",
+                "date": "24:01:2025",
+                "time": "17:00",
+                "folder_path": "/Users/emmanuellandau/Documents/data_insta/astro/9_en/7",
+                "scheduled": true
+            },
+            {
+                "platform": "tiktok",
+                "date": "24:01:2025",
+                "time": "18:00",
+                "folder_path": "/Users/emmanuellandau/Documents/data_insta/astro/9_en/8",
+                "scheduled": true
+            },
+            {
+                "platform": "tiktok",
+                "date": "24:01:2025",
+                "time": "19:00",
+                "folder_path": "/Users/emmanuellandau/Documents/data_insta/astro/9_en/9",
+                "scheduled": true
+            },
+            {
+                "platform": "tiktok",
+                "date": "25:01:2025",
+                "time": "17:00",
+                "folder_path": "/Users/emmanuellandau/Documents/data_insta/astro/9_en/10",
+                "scheduled": true
+            },
+            {
+                "platform": "tiktok",
+                "date": "25:01:2025",
+                "time": "18:00",
+                "folder_path": "/Users/emmanuellandau/Documents/data_insta/astro/9_en/11",
+                "scheduled": true
+            },
+            {
+                "platform": "tiktok",
+                "date": "25:01:2025",
+                "time": "19:00",
+                "folder_path": "/Users/emmanuellandau/Documents/data_insta/astro/9_en/12",
+                "scheduled": true
+            },
+            {
+                "platform": "tiktok",
+                "date": "26:01:2025",
+                "time": "17:00",
+                "folder_path": "/Users/emmanuellandau/Documents/data_insta/astro/9_en/13",
+                "scheduled": true
+            },
+            {
+                "platform": "tiktok",
+                "date": "26:01:2025",
+                "time": "18:00",
+                "folder_path": "/Users/emmanuellandau/Documents/data_insta/astro/9_en/14",
+                "scheduled": true
+            }
+        ]
+    }
+}
